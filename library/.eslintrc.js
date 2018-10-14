@@ -32,6 +32,7 @@ module.exports = {
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "comma-dangle": 0
     }
 };
