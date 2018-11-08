@@ -9,48 +9,56 @@ const books = [
         title: 'War and Peace',
         genre: 'Historical Fiction',
         author: 'Lev Nikolayevich Tolstoy',
+        bookId: 50,
         read: false
     },
     {
         title: 'Les Misérables',
         genre: 'Historical Fiction',
         author: 'Victor Hugo',
+        bookId: 51,
         read: false
     },
     {
         title: 'The Time Machine',
         genre: 'Science Fiction',
         author: 'H. G. Wells',
+        bookId: 52,
         read: false
     },
     {
         title: 'A Journey into the Center of the Earth',
         genre: 'Science Fiction',
         author: 'Jules Verne',
+        bookId: 53,
         read: false
     },
     {
         title: 'The Dark World',
         genre: 'Fantasy',
         author: 'Henry Kuttner',
+        bookId: 54,
         read: false
     },
     {
         title: 'The Wind in the Willows',
         genre: 'Fantasy',
         author: 'Kenneth Grahame',
+        bookId: 55,
         read: false
     },
     {
         title: 'Life On The Mississippi',
         genre: 'History',
         author: 'Mark Twain',
+        bookId: 56,
         read: false
     },
     {
         title: 'Childhood',
         genre: 'Biography',
         author: 'Lev Nikolayevich Tolstoy',
+        bookId: 57,
         read: false
     }
 ];
